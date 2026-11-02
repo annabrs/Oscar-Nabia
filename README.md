@@ -29,10 +29,10 @@ Alguns resultados:
 
 O que a base tem:
 
-Cada documento da coleção `oscar_indicados` é uma indicação:
-
 ```json
 {
+Cada documento da coleção `oscar_indicados` é uma indicação:
+
   "id_registro": 2,
   "ano_filmagem": 1927,
   "ano_cerimonia": 1928,
@@ -46,15 +46,6 @@ Cada documento da coleção `oscar_indicados` é uma indicação:
 
 A base original vem do repositório [gabaugusto/sample-databases](https://github.com/gabaugusto/sample-databases) e vai até a cerimônia de 2024. Eu acrescentei as cerimônias de **2025 e 2026**, que estão no arquivo `novos_2025_2026.json`.
 
-
-O que está no repositório:
-
-| Arquivo | O que é |
-|---|---|
-| `README.md` | esta apresentação |
-| [`respostas.md`](respostas.md) | os exercícios dos níveis 1 a 8, com as queries e as respostas |
-| [`novos_2025_2026.json`](novos_2025_2026.json) | as indicações de 2025 e 2026 |
-
 Tecnologias:
 
 MongoDB (consultas, agregações e atualizações em lote), mongosh e MongoDB Compass.
@@ -63,4 +54,4 @@ Depois é só seguir as queries do [`respostas.md`](respostas.md) na ordem. A li
 
 ## Autor
 
-[Seu Nome](https://github.com/SEU_USUARIO)
+[Annabia](https://github.com/annabrs)
